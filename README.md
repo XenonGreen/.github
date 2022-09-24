@@ -1,3 +1,0 @@
-# Xenon Green
-
-Xenon Green
