@@ -1,6 +1,8 @@
 # Xenon Green 
 
-👋 Hi! We're Xenon Green
+👋 Hi! We're Xenon Green, a DC-based startup focused on building simple, yet elegant solutions that connect people and create a more enjoyable online experience for everyone.  We believe in total data autonomy for everyone and build systems that respect this belief.  
+
+Right now we're focused on our audio-only social media platform, Cardinal.  [Take an early look at our vision](https://www.listencardinal.com).
 
 <!--
 
